@@ -104,7 +104,7 @@ values('$isbnv','$nombrev','$autorv','$fecha_ediv','$generov')";
        
     </section>
     <footer>
-        <p>Mirian Ochoa Benítez-2024</p>
+        <p>Garcia REndon Rodrigo Aner-2024</p>
     </footer>
 
         
