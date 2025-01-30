@@ -93,7 +93,7 @@ $actualizar="UPDATE libros set nombre='$nombrev', autor='$autorv', fecha='$fecha
         ?>
     </section>
     <footer>
-        <p>Mirian Ochoa Benítez-2024</p>
+        <p>Garcia Rendon Rodrigo Aner-2024</p>
     </footer>
 </body>
 
